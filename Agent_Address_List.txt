@@ -1,0 +1,361 @@
+﻿IsAgencyCode|IsAgencyContactId|IsAgencyName|ContactId|address_type|street|city|province|country|postalcode|address_level|r|full_address
+BD18372-01|58636164|Frank Tang|58636164|Main Address|1043 West Ave.|Mississauga|Ontario|Canada|>5E1V8|1|1|1043 West Ave.,Mississauga,Ontario,Canada
+BD18406-01|58636774|CM Financial Group|58636774|Main Address|1 Valleywood Dr.|Markham|Ontario|Canada|L3R 5L9|1|1|1 Valleywood Dr.,Markham,Ontario,Canada
+BD18467-01|58637718|PGS Centro Llanos|58637718|Main Address|Ed. Torre Cristal Av.  Salvador Feo La Cruz Norte-Sur 96 con Av. Paseo Venezuela 174.  Piso 2 of. 2-|Naguanagua|Carabobo|Venezuela||1|1|Ed. Torre Cristal Av.  Salvador Feo La Cruz Norte-Sur 96 con Av. Paseo Venezuela 174.  Piso 2 of. 2-,Naguanagua,Carabobo,Venezuela
+BD18507-01|58638342|Desjardins Financial Security Independent Network|58638342|Main Address|700 Richmond St.|London|Ontario|Canada|N4S 8H1|1|1|700 Richmond St.,London,Ontario,Canada
+BD18840-01|58645245|Powell & Partners Wealth Management Inc|58645245|Main Address|200 1001 1st Street SE|Calgary|Alberta|Canada|T2G 5G3|1|1|200 1001 1st Street SE,Calgary,Alberta,Canada
+BD05360-02|58646027|Tri Advisors|58646027|Work|Avenida Angamos Oeste 651 - Oficina 901 - Miraflores.|Lima|Lima|Peru|NULL|3|1|Avenida Angamos Oeste 651 - Oficina 901 - Miraflores.,Lima,Lima,Peru
+BD19205-01|58653093|Innovative Financial Group Inc|58653093|Work|202-28 Concourse Gate|Ottawa|Ontario|Canada|NULL|3|1|202-28 Concourse Gate,Ottawa,Ontario,Canada
+BD19220-01|58653537|Financial Horizons Inc|58653537|Work|22 Frederick St.|Kitchener|Ontario|Canada|N2H6M6|3|1|22 Frederick St.,Kitchener,Ontario,Canada
+BD19225-01|58653547|Profco Insurance Financial Services Ltd|58653547|Work|5000 Yonge Street |Toronto|Ontario|Canada|NULL|3|1|5000 Yonge Street ,Toronto,Ontario,Canada
+BD19298-01|58656412|AJS WEALTH MANAGEMENT INC|58656412|Work|148 PEEL STREET UNITE 1B|New Hamburg|Ontario|Canada|NULL|3|1|148 PEEL STREET UNITE 1B,New Hamburg,Ontario,Canada
+BD19317-01|58656497|PGS ANDES|58656497|Main Address|Conjunto Residencial Gabriela vía Hospital Militar|Caracas|Distrito Capital|Venezuela|NULL|1|1|Conjunto Residencial Gabriela vía Hospital Militar,Caracas,Distrito Capital,Venezuela
+BD19374-01|58657267|1634792 Ontario Inc|58657267|Work|940 The East Mall|Toronto|Ontario|Canada|NULL|3|1|940 The East Mall,Toronto,Ontario,Canada
+BD19468-01|58659034|Toronto Mutual Group|58659034|Work|910-505 Consumers Rd.|North York|Ontario|Canada|NULL|3|1|910-505 Consumers Rd.,North York,Ontario,Canada
+BD02521-02|58659151|Katya Davo|58659151|General Mailing|Paseo de las Misiones 927 |Los Cabos|Baja California Sur|Mexico|23400|2|1|Paseo de las Misiones 927 ,Los Cabos,Baja California Sur,Mexico
+BD19637-01|58662292|ASG AGENCY|58662292|General Mailing|AV. EUGENIO MENDOZA EDIF. IASA PISO 6 OFC. 606|Caracas|Distrito Capital|Venezuela||2|1|AV. EUGENIO MENDOZA EDIF. IASA PISO 6 OFC. 606,Caracas,Distrito Capital,Venezuela
+BD19665-01|58662580|Kabis Associates Inc|58662580|Work|210-3033 Palstan Road|Mississauga|Ontario|Canada|NULL|3|1|210-3033 Palstan Road,Mississauga,Ontario,Canada
+BD19684-01|58662657|Devine & Associates Financial Services Inc.|58662657|Work|413 Waterlos Ave|Guelph|Ontario|Canada|NULL|3|1|413 Waterlos Ave,Guelph,Ontario,Canada
+BD19688-01|58662664|CVIS INC|58662664|Work|145 Wellington Street West|Toronto|Ontario|Canada|NULL|3|1|145 Wellington Street West,Toronto,Ontario,Canada
+BD20253-01|58671302|Lespe Benefits Inc|58671302|Work|1009 De Bleury 1409|Montreal|Quebec|Canada|NULL|3|1|1009 De Bleury 1409,Montreal,Quebec,Canada
+BD20717-01|58676906|Brandon Harrison|58676906|Main Address|290-5655 Cambie Street|Vancouver|British Columbia|Canada|NULL|1|1|290-5655 Cambie Street,Vancouver,British Columbia,Canada
+BD20991-01|58680652|GA Brokers LLC|58680652|Main Address|8950 sw 74th Court, Suite 2243|Miami|Florida|United States|33156|1|1|8950 sw 74th Court, Suite 2243,Miami,Florida,United States
+BD20990-01|58680660|Continental Financial Services LTD|58680660|General Mailing|Building No.7A, Al-Zumorrodah Tower, Floor 16, Office No.5, Block 9, Ahmad Al-Jaber Street Al-Qibla|Unknown|Unknown|Kuwait||2|1|Building No.7A, Al-Zumorrodah Tower, Floor 16, Office No.5, Block 9, Ahmad Al-Jaber Street Al-Qibla,Unknown,Unknown,Kuwait
+BD21573-01|58688275|Groupe Agenz Inc|58688275|Main Address|620-3055 St-Martin Ouest|Laval|Quebec|Canada|NULL|1|1|620-3055 St-Martin Ouest,Laval,Quebec,Canada
+BD21602-01|58688728|IDC Worldsource Insurance Network|58688728|Main Address|5705 Cancross Crt Ste|Mississauga|Ontario|Canada|NULL|1|1|5705 Cancross Crt Ste,Mississauga,Ontario,Canada
+BD21633-01|58689079|SGI INVESTMENT GROUP, CORP|58689079|General Mailing|4000 PONCE DE LEON Blvd, STE 470|Coral Gables|Florida|United States|33146|2|1|4000 PONCE DE LEON Blvd, STE 470,Coral Gables,Florida,United States
+BD22437-01|58697805|JDIMI Consulting|58697805|Main Address|2375 Skymark Avenue|Mississauga|Ontario|Canada|NULL|1|1|2375 Skymark Avenue,Mississauga,Ontario,Canada
+BD01398-02|58701597|VIFREE LLC|58701597|Main Address|2330 Ponce De Leon Blvd|Coral Gables|Florida|United States|33134|1|1|2330 Ponce De Leon Blvd,Coral Gables,Florida,United States
+BD22919-01|58703886|NORFIELD MANAGEMENT LLC|58703886|Main Address|Ruta 8 Km 17,500, Edificio Biotec, Of 114|Montevideo|Montevideo|Uruguay|NULL|1|1|Ruta 8 Km 17,500, Edificio Biotec, Of 114,Montevideo,Montevideo,Uruguay
+BD23207-01|58707503|Towers Watson Canada Inc.|58707503|Main Address|Suite 1600, 111 5th Avenue SW|Calgary|Alberta|Canada|NULL|1|1|Suite 1600, 111 5th Avenue SW,Calgary,Alberta,Canada
+BD23263-01|58708078|LFS Financial|58708078|Main Address|5415 Pare Swtl 102|Unknown|Unknown|Canada|NULL|1|1|5415 Pare Swtl 102,Unknown,Unknown,Canada
+BD23617-01|58713878|Percy Zapata|58713878|General Mailing|Calle manuel tovar 540 Apartamento 203  Miraflores  |Miraflores|Lima|Peru|NULL|2|1|Calle manuel tovar 540 Apartamento 203  Miraflores  ,Miraflores,Lima,Peru
+BD23902-01|58718237|ASSEG AGENCIA ASESORA PRODUCTORA DE SEGUROS S.A.|58718237|Main Address|Hotel Sonesta Piso M2 Oficina 205|Guayaquil|Guayas|Ecuador|NULL|1|1|Hotel Sonesta Piso M2 Oficina 205,Guayaquil,Guayas,Ecuador
+BD23907-01|58718284|ACTITUD|58718284|Main Address|Pejerrey Manzana 810 - Solar 14|Solymar|Canelones|Uruguay|NULL|1|1|Pejerrey Manzana 810 - Solar 14,Solymar,Canelones,Uruguay
+BD24628-01|58731849|Diego Luis Morales Lara|58731849|General Mailing|carrera 30 #2c-196, edificio River place, torre 2|Barranquilla|Atlántico|Colombia||2|1|carrera 30 #2c-196, edificio River place, torre 2,Barranquilla,Atlántico,Colombia
+BD24787-01|58734950|Deepinder Bajwa|58734950|Main Address|51 Vantaga Coop|Newmarket|Ontario|Canada|NULL|1|1|51 Vantaga Coop,Newmarket,Ontario,Canada
+BD25000-01|58738938|CSU Canadian Specialty Underwriting Inc.|58738938|Main Address|113 Harriett Street|Brantford|Ontario|Canada|NULL|1|1|113 Harriett Street,Brantford,Ontario,Canada
+BD25022-01|58739290|FVU SEGUROS|58739290|Main Address|Calle Veintinueve No. 11 Torre B Dep. PB4|Naucalpan de Juarez|México|Mexico|53830|1|1|Calle Veintinueve No. 11 Torre B Dep. PB4,Naucalpan de Juarez,México,Mexico
+BD25386-01|58746377|RDA Ltd.|58746377|Main Address|290 Rowntree Dairy Road|Woodbridge|Ontario|Canada|NULL|1|1|290 Rowntree Dairy Road,Woodbridge,Ontario,Canada
+BD25525-01|58748284|Main Advisors , C.A.|58748284|Main Address|Calle Miranda con calle Urdaneta Edif. Z-B local A Urb. La Castellana|Caracas|Distrito Capital|Venezuela|NULL|1|1|Calle Miranda con calle Urdaneta Edif. Z-B local A Urb. La Castellana,Caracas,Distrito Capital,Venezuela
+BD25741-01|58751054|Mercer (Canada) Ltd.|58751054|Main Address|222 - 3rd Avenue S.W.|Calgary|Alberta|Canada|NULL|1|1|222 - 3rd Avenue S.W.,Calgary,Alberta,Canada
+BD00735-06|58751100|World of America Global Partners - TSR|58751100|Main Address|703 Waterford Way|Miami|Florida|United States|33126|1|1|703 Waterford Way,Miami,Florida,United States
+BD26292-01|58753425|PWM Advisory Group|58753425|Main Address|135 Bayfield St|Barrie|Ontario|Canada|NULL|1|1|135 Bayfield St,Barrie,Ontario,Canada
+BD26412-01|58755278|Selectpath Benefits & Financial Inc.|58755278|Main Address|310-700 Richmond St|London|Ontario|Canada|NULL|1|1|310-700 Richmond St,London,Ontario,Canada
+BD26925-01|58760795|Interamerican Financial Consulting Group Inc.|58760795|Main Address|4770 Biscayne Blvd |Miami|Florida|United States|33137|1|1|4770 Biscayne Blvd ,Miami,Florida,United States
+BD27015-01|58761694|All Expat Consulting Lda|58761694|Main Address|Av 25 de Abril 184 Esc 2A, Cascais 2765-511|Unknown|Unknown|Portugal|NULL|1|1|Av 25 de Abril 184 Esc 2A, Cascais 2765-511,Unknown,Unknown,Portugal
+BD08637-02|58766980|OYCSA|58766980|Main Address|Edificio The Point 301, Puerto Santa Ana|Guayaquil|Guayas|Ecuador|NULL|1|1|Edificio The Point 301, Puerto Santa Ana,Guayaquil,Guayas,Ecuador
+BD27488-01|58767862|Sinclair Financial Ltd.|58767862|Main Address|88 Stayter Street |Dartmouth|Nova Scotia|Canada|NULL|1|1|88 Stayter Street ,Dartmouth,Nova Scotia,Canada
+BD27576-01|58769251|EMPIRE FINANCIAL SPECIALISTS, CORP.|58769251|Main Address|1110 Brickell Ave 806|Miami|Florida|United States|33131|1|1|1110 Brickell Ave 806,Miami,Florida,United States
+BD23068-02|58771499|SHELDON GOLDBERG INSURANCE INC.|58771499|Main Address|30813-4710 Nw St Ambrise |Montreal|Quebec|Canada|NULL|1|1|30813-4710 Nw St Ambrise ,Montreal,Quebec,Canada
+BD27770-01|58771824|Shaffer Planning and Referral Services|58771824|Main Address|362 Oxford St E|London|Ontario|Canada|NULL|1|1|362 Oxford St E,London,Ontario,Canada
+BD08035-02|58778643|Great Lakes Consulting|58778643|Main Address|Colonia San Benito Av La Capilla # 414|Unknown|Unknown|El Salvador|NULL|1|1|Colonia San Benito Av La Capilla # 414,Unknown,Unknown,El Salvador
+BD28955-01|58786061|Jay Bernbaum|58786061|Main Address|50 Fraserwood Road|Thornhill|Ontario|Canada|L4J9C8|1|1|50 Fraserwood Road,Thornhill,Ontario,Canada
+BD29200-01|58790675|STEPHEN J. EPSTEIN INSURANCE AGENCY INC.|58790675|Main Address|220 Duncan Mill Road, Suite 404|Toronto|Ontario|Canada||1|1|220 Duncan Mill Road, Suite 404,Toronto,Ontario,Canada
+BD29246-01|58791382|Worldwide Access Partners LLC|58791382|Main Address|3620 Palmarito Street|Coral Gables|Florida|United States|33131|1|1|3620 Palmarito Street,Coral Gables,Florida,United States
+BD29330-01|58792652|LEGACY PRIVATE WEALTH AND ESTATE|58792652|Main Address|235 Yorkland BLVD, Suite 1200|Toronto|Ontario|Canada||1|1|235 Yorkland BLVD, Suite 1200,Toronto,Ontario,Canada
+BD29382-01|58793787|EMPY I|58793787|Main Address|PALACIO DE VERSALLES 124 PISO 2|Miguel Hidalgo|Ciudad de Mexico|Mexico|11930|1|1|PALACIO DE VERSALLES 124 PISO 2,Miguel Hidalgo,Ciudad de Mexico,Mexico
+BD29584-01|58797485|Diversified Insurance Services Ltd.|58797485|Main Address|203 2903 KlngsviewBlvd SE|Airdrie|Alberta|Canada|T4A 0C4|1|1|203 2903 KlngsviewBlvd SE,Airdrie,Alberta,Canada
+BD29741-01|58800579|AMCO FINANCIAL (ONTARIO) INC.|58800579|Main Address|20 Bay Street 11th Floor|Toronto|Ontario|Canada|M5J2N8|1|1|20 Bay Street 11th Floor,Toronto,Ontario,Canada
+BD29793-01|58801147|SEGUDIRECTO, AGENTE DE SEGUROS Y DE FIANZAS S.A. DE C.V.|58801147|Main Address|Juan Salvador Agraz Num 65Int. 14-B Col. Lomas de Santa Fe|Mexico City|Ciudad de Mexico|Mexico||1|1|Juan Salvador Agraz Num 65Int. 14-B Col. Lomas de Santa Fe,Mexico City,Ciudad de Mexico,Mexico
+BD30024-01|58805600|WILLIAM P. RIVERA INSURANCE AGENCY, INC.|58805600|Main Address|5000 SW 75TH AVE|Miami|Florida|United States|33135|1|1|5000 SW 75TH AVE,Miami,Florida,United States
+BD30058-01|58806198|Pugachevsky Financial Group Inc|58806198|Work|104-279 Midpark Way SE|Calgary|Alberta|Canada||3|1|104-279 Midpark Way SE,Calgary,Alberta,Canada
+BD30117-01|58806976|ALFREDO VACA MORENO|58806976|Work|ACCESO A PRADERAS SAN MATEO   41|Naucalpan de Juarez|México|Mexico|53120|3|1|ACCESO A PRADERAS SAN MATEO   41,Naucalpan de Juarez,México,Mexico
+BD30120-01|58807015|Black Key Financial Consulting INC.|58807015|Main Address|625 Cochrane Dr |Markham|Ontario|Canada|L3R9R9|1|1|625 Cochrane Dr ,Markham,Ontario,Canada
+BD30129-01|58807183|Diverse Benefits and Financial Planning Inc. |58807183|Work|115, 1925 18th Ave NE|Calgary|Alberta|Canada|T2E 7T8|3|1|115, 1925 18th Ave NE,Calgary,Alberta,Canada
+BD30130-01|58807210|Rohit Bagga|58807210|Work|3627 Westcliff Way SW|Edmonton|Alberta|Canada|T6W-2L2|3|1|3627 Westcliff Way SW,Edmonton,Alberta,Canada
+BD30133-01|58807227|Ed Melna|58807227|Work|403-1926 St Mary's Rd|Winnipeg|Manitoba|Canada|R2N0K6|3|1|403-1926 St Mary's Rd,Winnipeg,Manitoba,Canada
+BD30148-01|58807351|Planned Prosperity Inc.|58807351|Work|1104 Madore Avenue|Coquitlam|British Columbia|Canada|V3K3B9|3|1|1104 Madore Avenue,Coquitlam,British Columbia,Canada
+BD30155-01|58807462|Insurance247.ca Inc|58807462|Work|143 Rockcliffe Road|Dundas|Ontario|Canada||3|1|143 Rockcliffe Road,Dundas,Ontario,Canada
+BD30156-01|58807465|Bob Jamieson|58807465|Work|120 12 Cheadle St W|Swift Current|Saskatchewan|Canada||3|1|120 12 Cheadle St W,Swift Current,Saskatchewan,Canada
+BD30166-01|58807566|PROTG PROMOTORES GLOBALES SA DE CV|58807566|Work|JAIME BALMES                  11|Miguel Hidalgo|Ciudad de Mexico|Mexico|11510|3|1|JAIME BALMES                  11,Miguel Hidalgo,Ciudad de Mexico,Mexico
+BD30187-01|58807708|MOISES PODGURSKY BENOSIGLIO|58807708|Work|ALTATA                        51|Cuauhtemoc|Ciudad de Mexico|Mexico|6100|3|1|ALTATA                        51,Cuauhtemoc,Ciudad de Mexico,Mexico
+BD30195-01|58807821|BENIN ASESORES S DE RL DE CV|58807821|Work|MELQUIADES ALANIS             4399|Juarez|Chihuahua|Mexico|32310|3|1|MELQUIADES ALANIS             4399,Juarez,Chihuahua,Mexico
+BD30234-01|58808388|RICARDO ENRIQUE HERNANDEZ ROMO|58808388|Work|ARKANSAS                      5|Benito Juarez|Ciudad de Mexico|Mexico|3810|3|1|ARKANSAS                      5,Benito Juarez,Ciudad de Mexico,Mexico
+BD30237-01|58808430|CONSULTORES FIDARE SC|58808430|Work|AV. PASEO DE LA REFORMA       2620|Miguel Hidalgo|Ciudad de Mexico|Mexico|11950|3|1|AV. PASEO DE LA REFORMA       2620,Miguel Hidalgo,Ciudad de Mexico,Mexico
+BD30292-01|58809005|MARIO ALEJANDRO HERNANDEZ ROJAS|58809005|Work|PRIVADA DE LOS CEDROS         71|Alvaro Obregon|Ciudad de Mexico|Mexico|1729|3|1|PRIVADA DE LOS CEDROS         71,Alvaro Obregon,Ciudad de Mexico,Mexico
+BD30305-01|58809241|GRUPO JAVELLY SA DE CV|58809241|Work|BLVD. ANTONIO L. RODRIGUEZ    3000|Monterrey|Nuevo León|Mexico|64650|3|1|BLVD. ANTONIO L. RODRIGUEZ    3000,Monterrey,Nuevo León,Mexico
+BD30351-01|58809667|GRUPO FENAME SC|58809667|Work|AV. LAS PALMAS                4800|Tijuana|Baja California|Mexico|22106|3|1|AV. LAS PALMAS                4800,Tijuana,Baja California,Mexico
+BD30451-01|58810606|SUPRAINVEST MEXICO AGENTE DE SEGUROS SA DE CV|58810606|Work|AV.  INSURGENTES SUR          826|Benito Juarez|Ciudad de Mexico|Mexico|3100|3|1|AV.  INSURGENTES SUR          826,Benito Juarez,Ciudad de Mexico,Mexico
+BD30483-01|58810887|PACIFIC PRIME INSURANCE BROKERS LIMITED, AGENTE DE SEGUROS SA DE CV|58810887|Work|LAGO ZURICH                   219|Miguel Hidalgo|Ciudad de Mexico|Mexico|11529|3|1|LAGO ZURICH                   219,Miguel Hidalgo,Ciudad de Mexico,Mexico
+BD30518-01|58811169|KT ASOCIADOS SC|58811169|Work|AMORES                        1120|Benito Juarez|Ciudad de Mexico|Mexico|3100|3|1|AMORES                        1120,Benito Juarez,Ciudad de Mexico,Mexico
+BD30538-01|58811449|PROMOTOR VIRTUAL BDI - AGENTES|58811449|Work|PASEO TAMARINDOS|Cuajimalpa De Morelos|Ciudad de Mexico|Mexico|5120|3|1|PASEO TAMARINDOS,Cuajimalpa De Morelos,Ciudad de Mexico,Mexico
+BD30544-01|58811546|MB Pension & Benefirs Group Inc. |58811546|Work|3259 W 2nd Ave|Vancouver|British Columbia|Canada|V6K1K9|3|1|3259 W 2nd Ave,Vancouver,British Columbia,Canada
+BD30562-01|58811704|LIFEQUOTE CANADA INSURANCE AGENCY |58811704|Work|5500 North Service RD suit 209|Burlington|Ontario|Canada||3|1|5500 North Service RD suit 209,Burlington,Ontario,Canada
+BD30615-01|58812301|Moakler Wealth Management Inc. |58812301|Work|2 Messina Ave. |Brampton|Ontario|Canada||3|1|2 Messina Ave. ,Brampton,Ontario,Canada
+BD30618-01|58812331|Goldring Financial Leadership Inc. |58812331|Work|524 Wicklow Road|Burlington|Ontario|Canada|L7L2H8|3|1|524 Wicklow Road,Burlington,Ontario,Canada
+BD30781-01|58814630|Cinaber financial Inc. |58814630|Work|1785 Wanderland Rd|London|Ontario|Canada||3|1|1785 Wanderland Rd,London,Ontario,Canada
+BD30922-01|58816558|HUB International|58816558|Main Address|120-6712 Fischer Street SE|Calgary|Alberta|Canada|T2H 2A7|1|1|120-6712 Fischer Street SE,Calgary,Alberta,Canada
+BD31162-01|58820298|Trevor Chew|58820298|General Mailing|8 Josaly Drive|Toronto|Ontario|Canada|M1C 2N5|2|1|8 Josaly Drive,Toronto,Ontario,Canada
+BD31203-01|58820855|Customplan Financial Advisors Inc.|58820855|Work|#1900 - 1500 West Georgia Street|Vancouver|British Columbia|Canada|V6G2Z6|3|1|#1900 - 1500 West Georgia Street,Vancouver,British Columbia,Canada
+BD31234-01|58821468|ARAGON CAPITAL LLC|58821468|Main Address|101 NE 3rd Ave Suite 1500, Fort Lauderdale, FL 33301|Fort Lauderdale|Florida|United States|33301|1|1|101 NE 3rd Ave Suite 1500, Fort Lauderdale, FL 33301,Fort Lauderdale,Florida,United States
+BD31341-01|58823269|WAGNER NESPOLI|58823269|Main Address|RUA MARANJAI 797 VILA MONUMENTO|Sao Paulo|São Paulo|Brazil||1|1|RUA MARANJAI 797 VILA MONUMENTO,Sao Paulo,São Paulo,Brazil
+BD00735-07|58823356|WOA INSTITUTIONAL|58823356|Main Address|703 WATERFORD WAY SUITE 590|Miami|Florida|United States|33126|1|1|703 WATERFORD WAY SUITE 590,Miami,Florida,United States
+BD31356-01|58823520|GPC FINANCIAL PLANNERS AGENTE DE SEGUROS Y DE FIANZAS SA DE CV|58823520|Work|AV. EJERCITO NACIONAL         475|Miguel Hidalgo|Ciudad de Mexico|Mexico|11520|3|1|AV. EJERCITO NACIONAL         475,Miguel Hidalgo,Ciudad de Mexico,Mexico
+BD31357-01|58823568|EXPAT INSURANCE LLC|58823568|Main Address|50 West Broadway|Salt Lake City|Utah|United States|84101|1|1|50 West Broadway,Salt Lake City,Utah,United States
+BD31471-01|58825550|GAPPER 24 AGENTE DE SEGUROS Y DE FIANZAS SA DE CV|58825550|Work|AV PROL PASEO DE LA REFORMA   627|Alvaro Obregon|Ciudad de Mexico|Mexico|1330|3|1|AV PROL PASEO DE LA REFORMA   627,Alvaro Obregon,Ciudad de Mexico,Mexico
+BD31525-01|58826346|Naviguide Corp|58826346|Work|Naviguide Corp|Courtenay|British Columbia|Canada||3|1|Naviguide Corp,Courtenay,British Columbia,Canada
+BD31555-01|58826906|RYAN M. CORPUZ LTD|58826906|Main Address|3977 Lewister|North Vancouver|British Columbia|Canada||1|1|3977 Lewister,North Vancouver,British Columbia,Canada
+BD31596-01|58827686|Cheryl Solomon|58827686|Work|1867 Yonge Street Suite 500|Toronto|Ontario|Canada|M4S 1Y5|3|1|1867 Yonge Street Suite 500,Toronto,Ontario,Canada
+BD31945-01|58834527|ACYVA INSURANCE ADVISORS INC.|58834527|Main Address|520 Daniel Arnoldi|Laval|Quebec|Canada||1|1|520 Daniel Arnoldi,Laval,Quebec,Canada
+BD32062-01|58837045|Franklin Tranter & Associates Inc|58837045|Work|33 Hillsdale Ave W|Toronto|Ontario|Canada||3|1|33 Hillsdale Ave W,Toronto,Ontario,Canada
+BD32077-01|58837306|ORACLE RMS|58837306|Work|100 Drumlin #101|Concord|Ontario|Canada||3|1|100 Drumlin #101,Concord,Ontario,Canada
+BD31810-02|58837895|Ramon Alberto Luzardo Villalobos|58837895|Main Address|AV 4 BELLA VISTA CON CALLE 67 EDIF BLITZ PB 1B-1C|Maracaibo|Zulia|Venezuela||1|1|AV 4 BELLA VISTA CON CALLE 67 EDIF BLITZ PB 1B-1C,Maracaibo,Zulia,Venezuela
+BD32441-01|58843066|Rocky Mountain Benefits Ltd.|58843066|Main Address|153 Douglasview Rise SE|Calgary|Alberta|Canada||1|1|153 Douglasview Rise SE,Calgary,Alberta,Canada
+BD32462-01|58843500|Doug Wellman|58843500|Main Address|1539 Winville RD|Pickering|Ontario|Canada||1|1|1539 Winville RD,Pickering,Ontario,Canada
+BD32464-01|58843510|Secure Benefits Solutions|58843510|Main Address|14 Stewart Ct Unit 14|Orangeville|Ontario|Canada||1|1|14 Stewart Ct Unit 14,Orangeville,Ontario,Canada
+BD32495-01|58843806|Life Line Brokers|58843806|Main Address|134 Primrose DR|Saskatoon|Saskatchewan|Canada||1|1|134 Primrose DR,Saskatoon,Saskatchewan,Canada
+BD32503-01|58843905|ASESORA PRODUCTORA DE SEGUROS BINSURTEK C.A.|58843905|Main Address|Batan Alto y Arizaga Luque|Quito|Pichincha|Ecuador||1|1|Batan Alto y Arizaga Luque,Quito,Pichincha,Ecuador
+BD31561-02|58845009|YJFS Consulting LTD|58845009|Main Address|48 Garland Crescent|Richmond Hill|Ontario|Canada||1|1|48 Garland Crescent,Richmond Hill,Ontario,Canada
+BD32598-01|58845482|Attract Retain & Care Employee Benefit Consulting Services Inc. |58845482|Main Address|6100 Seymore Ave |Peachland|British Columbia|Canada||1|1|6100 Seymore Ave ,Peachland,British Columbia,Canada
+BD32604-01|58845559|Nelida Alexandra Quintero Mahecha|58845559|Main Address|Cra 104 # 16-28 Torre 2 Apto 403|Bogota|Bogota D.C.|Colombia|NULL|1|1|Cra 104 # 16-28 Torre 2 Apto 403,Bogota,Bogota D.C.,Colombia
+BD32607-01|58845571|Pacific Insurance Broker Inc|58845571|Main Address|101-120 East Beaver Creed Road|Richmond Hill|Ontario|Canada||1|1|101-120 East Beaver Creed Road,Richmond Hill,Ontario,Canada
+BD32608-01|58845577|Insure Exact Insurance Brokers Ltd.|58845577|Main Address|545 Meadow Wood Rd|Mississauga|Ontario|Canada||1|1|545 Meadow Wood Rd,Mississauga,Ontario,Canada
+BD32637-01|58845897|Dmytro Lazarchuk|58845897|Billing|61 Martina Cresecent|Woodbridge|Ontario|Canada||3|1|61 Martina Cresecent,Woodbridge,Ontario,Canada
+BD32746-01|58847289|Northway Financial Consultants Ltd.|58847289|Main Address|108-9506 Markham Rd|Markham|Ontario|Canada||1|1|108-9506 Markham Rd,Markham,Ontario,Canada
+BD32748-01|58847302|GLOBAL FINANCIAL NETWORK MEXICO SA DE CV|58847302|Work|J CLEMENTE OROZCO             446|Juarez|Chihuahua|Mexico|32340|3|1|J CLEMENTE OROZCO             446,Juarez,Chihuahua,Mexico
+BD32766-01|58847684|Northern Financial Group |58847684|Main Address|350 Queen Street South, Streetsville|Mississauga|Ontario|Canada||1|1|350 Queen Street South, Streetsville,Mississauga,Ontario,Canada
+BD01000-02|58848432|Florencio Hernan Garma Feijoo|58848432|Main Address|Brasil 2887|Montevideo|Montevideo|Uruguay||1|1|Brasil 2887,Montevideo,Montevideo,Uruguay
+BD00008-01|3056|Guido  Jalil|3056|Main Address|Av. Miguel H. Alcívar y Av. José Castillo, Manzana 17 Solar 3 y 4, Torre C, Proyecto Kennedy Point|Guayaquil|Unknown|Ecuador||1|1|Av. Miguel H. Alcívar y Av. José Castillo, Manzana 17 Solar 3 y 4, Torre C, Proyecto Kennedy Point,Guayaquil,Unknown,Ecuador
+BD00011-01|3057|N.  Puterman|3057|Main Address|Av. San Felipe, Centro Coinasa; piso 3 Ofc 35, La Castellana|Caracas|Distrito Capital|Venezuela|1060|1|1|Av. San Felipe, Centro Coinasa; piso 3 Ofc 35, La Castellana,Caracas,Distrito Capital,Venezuela
+BD00229-01|3168|Copassa|3168|Business|19 Rue Clerveaux |Unknown|Unknown|Haiti||3|1|19 Rue Clerveaux ,Unknown,Unknown,Haiti
+BD00231-01|3169|Suyapa  Guifarro|3169|Main Address|JARDINES DE MIRAFLORES, BLOQUE G – 26 CASA 3704  TEGUCIGALPA, HONDURAS C.A.|Tegucigalpa|Francisco Morazán|Honduras||1|1|JARDINES DE MIRAFLORES, BLOQUE G – 26 CASA 3704  TEGUCIGALPA, HONDURAS C.A.,Tegucigalpa,Francisco Morazán,Honduras
+BD00243-01|3177|EQUIDAD FINANCIAL SERVICES|3177|Mailing Address|Hooiberg 92-D |Santa Cruz|Unknown|Aruba||2|1|Hooiberg 92-D ,Santa Cruz,Unknown,Aruba
+BD00293-01|3215|Martha  Mora|3215|General Mailing|Urbanización Los Recuerdos, contiguo a Abastecedor Los Rec|Juan Vinas|Cartago|Costa Rica||2|1|Urbanización Los Recuerdos, contiguo a Abastecedor Los Rec,Juan Vinas,Cartago,Costa Rica
+BD00344-01|3253|FINSER 001|3253|General Mailing|Quebec 1139 Col. Providencia|Guadalajara|Jalisco|Mexico|44630|2|1|Quebec 1139 Col. Providencia,Guadalajara,Jalisco,Mexico
+BD00435-01|3334|GBSA y Asociados|3334|General Mailing|Jacinto Diaz 2517|San Isidro|Buenos Aires|Argentina|1642|2|1|Jacinto Diaz 2517,San Isidro,Buenos Aires,Argentina
+BD00441-01|3336|COREX|3336|Main Address|6 Calle 13 Ave S:O: Edificio Plaza Fesmar Segundo Nivel Frente a la Iglesia los Mormones|San Pedro Sula|Cortés|Honduras||1|1|6 Calle 13 Ave S:O: Edificio Plaza Fesmar Segundo Nivel Frente a la Iglesia los Mormones,San Pedro Sula,Cortés,Honduras
+BD00653-01|3520|Martha  Mora (DIA)|3520|General Mailing|Urbanización Los Recuerdos, contiguo a Abastecedor Los Rec|Juan Vinas|Cartago|Costa Rica||2|1|Urbanización Los Recuerdos, contiguo a Abastecedor Los Rec,Juan Vinas,Cartago,Costa Rica
+BD00680-01|3544|Manuel  Bustamante|3544|General Mailing|Jaime Balmes No. 11 Torre B, Piso 8, Plaza Polanco|Miguel Hidalgo|Ciudad de Mexico|Mexico|11510|2|1|Jaime Balmes No. 11 Torre B, Piso 8, Plaza Polanco,Miguel Hidalgo,Ciudad de Mexico,Mexico
+BD00741-01|3598|Andres E. Mazzei |3598|Main Address|Calle 84 Entre Ave. 2A y 2B|Maracaibo|Zulia|Venezuela||1|1|Calle 84 Entre Ave. 2A y 2B,Maracaibo,Zulia,Venezuela
+BD00742-01|3599|Arturo  Vargas|3599|Main Address|Av. La Romulo Betancourt 289, Plaza Tania |Santo Domingo|Unknown|Dominican Republic||1|1|Av. La Romulo Betancourt 289, Plaza Tania ,Santo Domingo,Unknown,Dominican Republic
+BD00747-01|3602|Polizza  |3602|Main Address|5823 N. Mesa|El Paso|Texas|United States|79912|1|1|5823 N. Mesa,El Paso,Texas,United States
+BD00754-01|3606|Beneficios Internacionales S.A.|3606|Main Address|Tres Rios, Villas de Ayarco, Condominio Santa Isabel, Apartamento # 2 |Cartago|Cartago|Costa Rica||1|1|Tres Rios, Villas de Ayarco, Condominio Santa Isabel, Apartamento # 2 ,Cartago,Cartago,Costa Rica
+BD00775-01|3623|Ibrahim  Gonzalez|3623|Main Address|2385 NW Executive Center|Boca Raton|Florida|United States|33431|1|1|2385 NW Executive Center,Boca Raton,Florida,United States
+BD00845-01|3682|Fundasol  LTD.|3682|Main Address|Melvin Jones 650 casi Ntra. Sra. Del Carmen|Asuncion|Asunción|Paraguay||1|1|Melvin Jones 650 casi Ntra. Sra. Del Carmen,Asuncion,Asunción,Paraguay
+BD00918-01|3743|Kenny Elizabeth Pajares Alfaro|3743|Work|Miguel Aljovin 781 Surco|Limactambo|Lima|Peru||3|1|Miguel Aljovin 781 Surco,Limactambo,Lima,Peru
+BD01240-01|3960|Estela  Fiallo|3960|General Mailing|Calle Polibio Daaz No. 41 Residencial ONIX V|Santo Domingo|Unknown|Dominican Republic||2|1|Calle Polibio Daaz No. 41 Residencial ONIX V,Santo Domingo,Unknown,Dominican Republic
+BD01285-01|3996|Felipe  Oneto Gamarra|3996|Business|Av. Tudela y Varela |Lima|Unknown|Peru||3|1|Av. Tudela y Varela ,Lima,Unknown,Peru
+BD01402-01|4061|AMC PRIVATE  CLIENT S.A|4061|General Mailing|Av. Emilio Cavenecia 225 Oficina 714|San Isidro|Lima|Peru|15073|2|1|Av. Emilio Cavenecia 225 Oficina 714,San Isidro,Lima,Peru
+BD01414-01|4067|Maria Elizabeth Pappe|4067|General Mailing|Av. Ernesto Blohm, Centro Ciudad Comercial Tamanaco Nivel C2, Sector Yarey Mezzanina, oficina MZ04B|Chacao|Miranda|Venezuela|1064|2|1|Av. Ernesto Blohm, Centro Ciudad Comercial Tamanaco Nivel C2, Sector Yarey Mezzanina, oficina MZ04B,Chacao,Miranda,Venezuela
+BD01979-01|4274|Agencia Donoso|4274|General Mailing|15200 SW 51st Street |Miramar|Florida|United States|33027|2|1|15200 SW 51st Street ,Miramar,Florida,United States
+BD02040-01|4289|Philippe Gation|4289|Main Address|Immeuble le Maglio, Angle rues Ogé et Clerveaux. Pétion-Ville|Port-au-Prince|Ouest|Haiti|HT6141|1|1|Immeuble le Maglio, Angle rues Ogé et Clerveaux. Pétion-Ville,Port-au-Prince,Ouest,Haiti
+BD02077-01|4303|Vielledent Cortazar y Asociados|4303|Main Address|6577 Contessa Ridge|El Paso|Texas|United States|79912|1|1|6577 Contessa Ridge,El Paso,Texas,United States
+BD02112-01|4311|Jorge A. Valdez|4311|Main Address|120 E Redd Rd.|El Paso|Texas|United States|79932|1|1|120 E Redd Rd.,El Paso,Texas,United States
+BD02120-01|4314|Selwyn  Batchelor|4314|Main Address|PTY 4515 Plaza Albro #3, Canfield Ave|Unknown|Unknown|Panama||1|1|PTY 4515 Plaza Albro #3, Canfield Ave,Unknown,Unknown,Panama
+BD02240-01|4350|Alvaro  de la Guardia|4350|Mailing Address|Club Terraza 1c. al |Unknown|Unknown|Nicaragua||2|1|Club Terraza 1c. al ,Unknown,Unknown,Nicaragua
+BD02823-01|4512|Shelton Enterprises|4512|Main Address|TORRE GENERAL 9TH FL AVE SAMUEL LEWIS|Panama|Panamá|Panama||1|1|TORRE GENERAL 9TH FL AVE SAMUEL LEWIS,Panama,Panamá,Panama
+BD03204-01|4637|Grupo  Garmas|4637|Main Address|Papa Juan XXIII Nº1818  Apto.A CP. 1749, B.º: Manorá |Asuncion|Asunción|Paraguay||1|1|Papa Juan XXIII Nº1818  Apto.A CP. 1749, B.º: Manorá ,Asuncion,Asunción,Paraguay
+BD03785-01|4759|Daniel  Quijano - Reissner|4759|Main Address|Avenida Sexta No. 25 N-58|Cali|Valle del Cauca|Colombia|760001|1|1|Avenida Sexta No. 25 N-58,Cali,Valle del Cauca,Colombia
+BD03963-01|4799|David  Sarfati|4799|Main Address|AV. SANTA FE  462-B SANTA FE|Cuajimalpa De Morelos|Ciudad de Mexico|Mexico|05030|1|1|AV. SANTA FE  462-B SANTA FE,Cuajimalpa De Morelos,Ciudad de Mexico,Mexico
+BD04348-01|4876|Susana  Puig|4876|Main Address|Pasaje Mirabel 125 Dpto 102 Chorrillos|Lima|Lima|Peru||1|1|Pasaje Mirabel 125 Dpto 102 Chorrillos,Lima,Lima,Peru
+BD04731-01|4966|Cirilo  Tello Molina|4966|Main Address|Calle Brea y Pariñas 102. Oficina 801. Santiago de Surco|Lima|Lima|Peru||1|1|Calle Brea y Pariñas 102. Oficina 801. Santiago de Surco,Lima,Lima,Peru
+BD05532-01|5182|Maria del Pilar Avendaño Cisneros|5182|Main Address|CALLE SAN FERNANDO 157 DPTO.101  MIRAFLORES|Lima|Lima|Peru|15074|1|1|CALLE SAN FERNANDO 157 DPTO.101  MIRAFLORES,Lima,Lima,Peru
+BD06091-01|5267|Larry  Kenneth Friesen|5267|General Mailing|Blue Angel Solutions Plaza Interlago 17, Libramiento - Chapala|Chapala|Jalisco|Mexico|45920|2|1|Blue Angel Solutions Plaza Interlago 17, Libramiento - Chapala,Chapala,Jalisco,Mexico
+BD07773-01|5802|Adolfo Jorge Vilanova|5802|Main Address|Avenida Mohedano Esq Los granados quinta I-31 La Castellana, Carácas 1060|Unknown|Unknown|Venezuela||1|1|Avenida Mohedano Esq Los granados quinta I-31 La Castellana, Carácas 1060,Unknown,Unknown,Venezuela
+BD07809-01|5826|Signature|5826|General Mailing|Av. Pershing 465 of 102  Mezzanine Magdalena del Mar|Lima|Arequipa|Peru||2|1|Av. Pershing 465 of 102 Mezzanine Magdalena del Mar,Lima,Arequipa,Peru
+BD08517-01|6070|Brian Mackie - Cindy Marie Gibbs|6070|Main Address|29 Prior Park Terrace|Unknown|Unknown|Barbados|NULL|1|1|29 Prior Park Terrace,Unknown,Unknown,Barbados
+BD08590-01|6093|Ian  Maingot|6093|General Mailing|51 Orchid Avenue, Victoria Gardens Diego Martin|Diego Martin|Unknown|Trinidad and Tobago||2|1|51 Orchid Avenue, Victoria Gardens Diego Martin,Diego Martin,Unknown,Trinidad and Tobago
+BD08674-01|6113|FINSER 003|6113|General Mailing|Quebec 1139 Col. Providencia|Guadalajara|Jalisco|Mexico|44630|2|1|Quebec 1139 Col. Providencia,Guadalajara,Jalisco,Mexico
+BD09099-01|6227|Alef International Capital S.A.|6227|Main Address|Av. Angelica, 688 conjunto 705 / Santa Cecília- SP |Sao Paulo|São Paulo|Brazil|01228-000|1|1|Av. Angelica, 688 conjunto 705 / Santa Cecília- SP ,Sao Paulo,São Paulo,Brazil
+BD00003-01|6444|Power Selling|6444|Business|Av. Montenegro # 104|La Paz|Unknown|Bolivia||3|1|Av. Montenegro # 104,La Paz,Unknown,Bolivia
+BD00005-01|6446|GLH Costa Rica|6446|Main Address|800 Metros Noroeste, Primer Edificio Mano Izquierda VMG Business Center 1er Piso. Guachipelin, Escaz|San Jose|San José|Costa Rica||1|1|800 Metros Noroeste, Primer Edificio Mano Izquierda VMG Business Center 1er Piso. Guachipelin, Escaz,San Jose,San José,Costa Rica
+BD00006-01|6447|Kilvio R. Cruz & Asociados SRL|6447|General Mailing|Calle Gustavo Mejia ricart No. 126 Edif. Smester Piso 2|Santo Domingo|Santo Domingo|Dominican Republic||2|1|Calle Gustavo Mejia ricart No. 126 Edif. Smester Piso 2,Santo Domingo,Santo Domingo,Dominican Republic
+BD00007-01|6448|Megabroker’s Ecuador Inc.|6448|Main Address|Av. Republica E7-61 y Martin Carrion. Edificio Titanium Plaza. Piso 7 - Oficina 7-2|Quito|Pichincha|Ecuador|NULL|1|1|Av. Republica E7-61 y Martin Carrion. Edificio Titanium Plaza. Piso 7 - Oficina 7-2,Quito,Pichincha,Ecuador
+BD00009-01|6449|GLH Global Ltd.|6449|Main Address|AV. EUGENIO MENDOZA EDIF. IASA PISO 6 OFC. 606|Caracas|Distrito Capital|Venezuela||1|1|AV. EUGENIO MENDOZA EDIF. IASA PISO 6 OFC. 606,Caracas,Distrito Capital,Venezuela
+BD00012-01|6450|Twylite Investments, C.A.|6450|General Mailing|Av. Ernesto Blohm, Centro Ciudad Comercial Tamanaco Nivel C2, Sector Yarey Mezzanina, oficina MZ04B|Chacao|Miranda|Venezuela|1064|2|1|Av. Ernesto Blohm, Centro Ciudad Comercial Tamanaco Nivel C2, Sector Yarey Mezzanina, oficina MZ04B,Chacao,Miranda,Venezuela
+BD00020-01|6452|PIB, LLC |6452|General Mailing|Av. Romulo Gallegos, Torre Poliprima piso 7 sector ana eduvigis - a dos cuadras del excelsior gama|Caracas|Distrito Capital|Venezuela||2|1|Av. Romulo Gallegos, Torre Poliprima piso 7 sector ana eduvigis - a dos cuadras del excelsior gama,Caracas,Distrito Capital,Venezuela
+BD00090-01|6455|Lugano Corporation|6455|Main Address|TRIDENT CHAMBERS WICKHAMS CAY POBOX 146 ROAD TOWN |Unknown|Unknown|British Virgin Islands|33166|1|1|TRIDENT CHAMBERS WICKHAMS CAY POBOX 146 ROAD TOWN ,Unknown,Unknown,British Virgin Islands
+BD00187-01|6459|Cunapro Financial Services|6459|Main Address|La Lagunita, Avenida La Cumbre, Calle A-5, Qta. #148, La Lagunita, Municipio El Hatillo|Caracas|Distrito Capital|Venezuela||1|1|La Lagunita, Avenida La Cumbre, Calle A-5, Qta. #148, La Lagunita, Municipio El Hatillo,Caracas,Distrito Capital,Venezuela
+BD00219-01|6460|Sonia Grullon Pimentel|6460|General Mailing|Calle Cul de Sac 2, casa 4 Res. Rosa I Ensanche Julieta|Santo Domingo|Santo Domingo|Dominican Republic||2|1|Calle Cul de Sac 2, casa 4 Res. Rosa I Ensanche Julieta,Santo Domingo,Santo Domingo,Dominican Republic
+BD00223-01|6461|Global Financial Brokers, Ltd.|6461|General Mailing|First Floor, #7 Gray Street St. Clair Port of Spain |Unknown|Unknown|Trinidad and Tobago||2|1|First Floor, #7 Gray Street St. Clair Port of Spain ,Unknown,Unknown,Trinidad and Tobago
+BD00225-01|6462|Salles y Salles, S.A.|6462|Main Address|3ª.Calle 26-81 Zona 15 San Lazaro|Guatemala City|Guatemala|Guatemala||1|1|3ª.Calle 26-81 Zona 15 San Lazaro,Guatemala City,Guatemala,Guatemala
+BD00289-01|6468|Tait Insurance Services, Inc.|6468|Main Address|3113 South Ocean Drive |HALLANDALE BEACH|Florida|United States|33009|1|1|3113 South Ocean Drive ,HALLANDALE BEACH,Florida,United States
+BD00328-01|6470|WKF I|6470|Main Address|Fiacmont House, Sinusorcef 17-27, 2132 WT|Unknown|Unknown|Netherlands||1|1|Fiacmont House, Sinusorcef 17-27, 2132 WT,Unknown,Unknown,Netherlands
+BD00368-01|6475|Asesores Patrimoniales Latinoamerica S.A|6475|Business|Torre Atlas, piso 4 |Guayaquil|Unknown|Ecuador||3|1|Torre Atlas, piso 4 ,Guayaquil,Unknown,Ecuador
+BD00437-01|6480|Josefina Guzman & Associates|6480|Main Address|Calle 2, # 2 Cerro Hermoso|Santiago de los Caballeros|Santiago|Dominican Republic||1|1|Calle 2, # 2 Cerro Hermoso,Santiago de los Caballeros,Santiago,Dominican Republic
+BD00439-01|6482|JIMAC International, PA|6482|Main Address|4031 NE 26 Ave. Lighthouse Point , Florida , 33064|LIGHTHOUSE POIN|Florida|United States|33064|1|1|4031 NE 26 Ave. Lighthouse Point , Florida , 33064,LIGHTHOUSE POIN,Florida,United States
+BD00446-01|6484|LONDMAR, S.A.|6484|Business|Juncal 770 |Buenos Aires|Unknown|Argentina||3|1|Juncal 770 ,Buenos Aires,Unknown,Argentina
+BD00455-01|6485|Starck Group|6485|Business|Calle Chacao |Caracas|Unknown|Venezuela||3|1|Calle Chacao ,Caracas,Unknown,Venezuela
+BD00480-01|6488|ASE FINANCIAL|6488|Main Address|111 ALGONQUIN ROAD C|Boston|Massachusetts|United States|02467|1|1|111 ALGONQUIN ROAD C,Boston,Massachusetts,United States
+BD00563-01|6493|LUPITA GUTIERREZ INC.|6493|General Mailing|118 Broadway Street, Suite 322|San Antonio|Texas|United States|78205|2|1|118 Broadway Street, Suite 322,San Antonio,Texas,United States
+BD00569-01|6494|Arkeley Development Portfolio LLC.|6494|Main Address|KM 1.5 VIA SAMBORONDON, EDIFICIO XIMA CENTRO DE NEGOCIOS, PISO 5, OF 506|Guayaquil|Guayas|Ecuador|NULL|1|1|KM 1.5 VIA SAMBORONDON, EDIFICIO XIMA CENTRO DE NEGOCIOS, PISO 5, OF 506,Guayaquil,Guayas,Ecuador
+BD00588-01|6495|KASPI GROUP LLC|6495|Main Address|2330 PONCE DE LEON BLVD|Coral Gables|Florida|United States|33134|1|1|2330 PONCE DE LEON BLVD,Coral Gables,Florida,United States
+BD00611-01|6497|Megabroker's Inc.|6497|Business|Blue Lagoon Dr. Suit|Miami|Unknown|United States||3|1|Blue Lagoon Dr. Suit,Miami,Unknown,United States
+BD00625-01|6500|PFP de Venezuela, C.A.|6500|Main Address|Avenida Francisco de Miranda Intercepción con la principal de las Mercedes, Edificio EASO Piso 5 |Caracas|Distrito Capital|Venezuela||1|1|Avenida Francisco de Miranda Intercepción con la principal de las Mercedes, Edificio EASO Piso 5 ,Caracas,Distrito Capital,Venezuela
+BD00643-01|6501|ASEGI S.A.|6501|Main Address|German Schreiber #272 Piso 2|San Isidro|Lima|Peru||1|1|German Schreiber #272 Piso 2,San Isidro,Lima,Peru
+BD00696-01|6506|EXCELLENCE ASESORES, CA|6506|Main Address|Av. Venezuela con Mohedano Torre Centuria (Torre BOD), Piso 8, Ofic 8C-D, Urb El Rosal|Caracas|Distrito Capital|Venezuela|1060|1|1|Av. Venezuela con Mohedano Torre Centuria (Torre BOD), Piso 8, Ofic 8C-D, Urb El Rosal,Caracas,Distrito Capital,Venezuela
+BD00733-01|6507|NESTRADING LATAM LLC|6507|Main Address|1000 NW 57 CT|Miami|Florida|United States|33126|1|1|1000 NW 57 CT,Miami,Florida,United States
+BD00735-01|6508|World of America Global Partners LLC|6508|Main Address|703 Waterford Way |Miami|Florida|United States|33126|1|1|703 Waterford Way ,Miami,Florida,United States
+BD00743-01|6510|Just Insurance Brokers|6510|Main Address|1200 N.W. 78 Ave. St|Miami|Florida|United States|33126|1|1|1200 N.W. 78 Ave. St,Miami,Florida,United States
+BD00748-01|6512|Perfect Circle Inc.|6512|Main Address|Del vivero exotica 75 este y 100 sur, edificio esquinero ¨Plaza esquina escazu¨ tercer piso|San Rafael Escazu|San José|Costa Rica||1|1|Del vivero exotica 75 este y 100 sur, edificio esquinero ¨Plaza esquina escazu¨ tercer piso,San Rafael Escazu,San José,Costa Rica
+BD10209-02|6514|ICG Company Insurance & Consulting Group|6514|Mailing Address|Zonamerica KM 17.50,|Montevideo|Unknown|Uruguay||2|1|Zonamerica KM 17.50,,Montevideo,Unknown,Uruguay
+BD00771-01|6516|ASA, Inc.|6516|Main Address|4425 E Agave Rd.|Phoenix|Arizona|United States|85044|1|1|4425 E Agave Rd.,Phoenix,Arizona,United States
+BD00782-01|6518|Primerose Holding Corp. - PVG International|6518|General Mailing|240 Crandon Blvd, Ste 100|Key Biscayne|Florida|United States|33149|2|1|240 Crandon Blvd, Ste 100,Key Biscayne,Florida,United States
+BD00812-01|6520|MassMutual Financial Group|6520|Business|1000 Corporate Drive|Fort Lauderdale|Unknown|United States|33334|3|1|1000 Corporate Drive,Fort Lauderdale,Unknown,United States
+BD00862-01|6524|Megabroker's Chile S.A.|6524|Business|Lo Fontecilla 201 Of|Santiago|Unknown|Chile||3|1|Lo Fontecilla 201 Of,Santiago,Unknown,Chile
+BD00960-01|6531|International Total Support Corporation|6531|General Mailing|Avda. Blandin, Centro San Ignacio, Torre Copernico, Piso 4, Ofic. 4-03|Caracas|Distrito Capital|Venezuela||2|1|Avda. Blandin, Centro San Ignacio, Torre Copernico, Piso 4, Ofic. 4-03,Caracas,Distrito Capital,Venezuela
+BD01202-01|6540|The Highland House LLC|6540|Main Address|5505 TPC Parky|SAN ANTOINO|Texas|United States|78261|1|1|5505 TPC Parky,SAN ANTOINO,Texas,United States
+BD01315-01|6545|Fairchild Financial Services, Inc.|6545|Main Address|3021 Coconut Grove Drive|Coral Gables|Florida|United States|33134|1|1|3021 Coconut Grove Drive,Coral Gables,Florida,United States
+BD01325-01|6546|Universal Elite Associates|6546|Main Address|500 metros Sur de la Paco en Escazu, Apto. Tamarindo|San Jose|San José|Costa Rica|33186|1|1|500 metros Sur de la Paco en Escazu, Apto. Tamarindo,San Jose,San José,Costa Rica
+BD01348-01|6547|Spadon LLC.|6547|Main Address|Av. Francisco de Miranda, Edf. Cavendes, Piso 9 Ofc. 901|Caracas|Distrito Capital|Venezuela||1|1|Av. Francisco de Miranda, Edf. Cavendes, Piso 9 Ofc. 901,Caracas,Distrito Capital,Venezuela
+BD01452-01|6551|PGS Consulting Group|6551|Main Address|Centro Financiero La Vegas, Ofic. 4-6 Piso 4, Av. Lara con Calle La Lagunita|Barquisimeto|Lara|Venezuela|3001|1|1|Centro Financiero La Vegas, Ofic. 4-6 Piso 4, Av. Lara con Calle La Lagunita,Barquisimeto,Lara,Venezuela
+BD01535-01|6553|GPA Global Protection Advisers, LTD|6553|Main Address|Av. Rio Caura Torre Humboldt Nivel Terraza Oficina 07- 08. Prados del Este  |Caracas|Distrito Capital|Venezuela||1|1|Av. Rio Caura Torre Humboldt Nivel Terraza Oficina 07- 08. Prados del Este  ,Caracas,Distrito Capital,Venezuela
+BD01870-01|6563|Megabroker’s Nicaragua Inc.|6563|Main Address|Residencial Bolonia, Rotonda El Gueguense 75 varas al lago # 1609|Managua|Managua|Nicaragua||1|1|Residencial Bolonia, Rotonda El Gueguense 75 varas al lago # 1609,Managua,Managua,Nicaragua
+BD02298-01|6577|Phoenix Advisory Services|6577|Billing|Fuente de templanza #83 col. San Miguel Tecamachalco|Nahual|Unknown|Mexico|53970|3|1|Fuente de templanza #83 col. San Miguel Tecamachalco,Nahual,Unknown,Mexico
+BD02416-01|6580|Prime Financial Advisors|6580|General Mailing|Calle Jose Sabogal 376-105 Miraflores|Lima|Lima|Peru||2|1|Calle Jose Sabogal 376-105 Miraflores,Lima,Lima,Peru
+BD03430-01|6600|Interview Group|6600|Main Address|Av 10 con calle 72 edificio Ok 101 nivel mesanina|Maracaibo|Zulia|Venezuela||1|1|Av 10 con calle 72 edificio Ok 101 nivel mesanina,Maracaibo,Zulia,Venezuela
+BD03700-01|6602|International Wealth Protection LLC|6602|General Mailing|5757 Blue Lagoon Drive|Miami|Florida|United States|33126|2|1|5757 Blue Lagoon Drive,Miami,Florida,United States
+BD04036-01|6608|People Global LLC|6608|Main Address|11118 Wurzbach Road |San Antonio|Texas|United States|78230|1|1|11118 Wurzbach Road ,San Antonio,Texas,United States
+BD04068-01|6610|Grupo Houten C.A.|6610|Main Address|CCCT Piramide Invertida Pisa 2 Ofic. 215, Chuao|Caracas|Distrito Capital|Venezuela||1|1|CCCT Piramide Invertida Pisa 2 Ofic. 215, Chuao,Caracas,Distrito Capital,Venezuela
+BD04082-01|6612|Elite International Consultants, Inc.|6612|Main Address|13595 SW 134 Avenue|Miami|Florida|United States|33186|1|1|13595 SW 134 Avenue,Miami,Florida,United States
+BD04432-01|6614|Ferber & Associates|6614|Main Address|10906 Wickline Dr.|Houston|Texas|United States|77024|1|1|10906 Wickline Dr.,Houston,Texas,United States
+BD04568-01|6615|CISA USA, Inc.|6615|Main Address|9380 NW 45 Court |Unknown|Florida|United States|33351|1|1|9380 NW 45 Court ,Unknown,Florida,United States
+BD04596-01|6616|Infinity International Services LTD.|6616|Main Address|Centro Comercial y Profesional Reda building, Torre B, Piso 3 Avenida 122, Urb Valles de Comoruco|Valencia|Carabobo|Venezuela|2001|1|1|Centro Comercial y Profesional Reda building, Torre B, Piso 3 Avenida 122, Urb Valles de Comoruco,Valencia,Carabobo,Venezuela
+BD04618-01|6618|M. M. & M. Inc.|6618|Main Address|Pareraweg 45|Willemstad|Curacao|Curacao||1|1|Pareraweg 45,Willemstad,Curacao,Curacao
+BD04875-01|6627|Inovo International Protection|6627|Main Address|Av 17 los haticos, con calle 112, diagonal a la distribuidora la regional numero 17b-19|Maracaibo|Zulia|Venezuela|4001|1|1|Av 17 los haticos, con calle 112, diagonal a la distribuidora la regional numero 17b-19,Maracaibo,Zulia,Venezuela
+BD05273-01|6633|GLH Global LTDA Peru|6633|Work|Av.Tomás Ramsey 834 , 12 piso N° 1208 - Magdalena del Mar|Magdalena|Lima|Peru||3|1|Av.Tomás Ramsey 834 , 12 piso N° 1208 - Magdalena del Mar,Magdalena,Lima,Peru
+BD05514-01|6639|Ferber & Associates II|6639|General Mailing|SOLANO ANTUÑA 2727 PB CÓDIGO POSTAL 11300|Unknown|Unknown|Uruguay||2|1|SOLANO ANTUÑA 2727 PB CÓDIGO POSTAL 11300,Unknown,Unknown,Uruguay
+BD05988-01|6643|Brokers Financial and Insurance Services, Inc|6643|Main Address|5200 Blue Lagoon Drive |Miami|Florida|United States|33126|1|1|5200 Blue Lagoon Drive ,Miami,Florida,United States
+BD06145-01|6647|Value Insurance|6647|General Mailing|Av. Venezuela con calle sojo edificio Onix Piso 1, EL ROSAL/ CARACAS|Caracas|Distrito Capital|Venezuela||2|1|Av. Venezuela con calle sojo edificio Onix Piso 1, EL ROSAL/ CARACAS,Caracas,Distrito Capital,Venezuela
+BD06302-01|6649|Suprainvest USA|6649|Main Address|2020 Ponce de Leon|Coral Gables|Florida|United States|33134|1|1|2020 Ponce de Leon,Coral Gables,Florida,United States
+BD06534-01|6659|Starwood Wealth Management Group S.A.|6659|Main Address|Entre 81 y 83 Avenida Sur, Calle Cuscatlan #133 Colonia Escalon|San Salvador|San Salvador|El Salvador||1|1|Entre 81 y 83 Avenida Sur, Calle Cuscatlan #133 Colonia Escalon,San Salvador,San Salvador,El Salvador
+BD06778-01|6666|Atlantika Investments|6666|Residence|Pozos de Santa Ana d|Unknown|Unknown|Costa Rica||5|1|Pozos de Santa Ana d,Unknown,Unknown,Costa Rica
+BD07516-01|6680|Hazkel Puterman & Associates LLC|6680|Main Address|19430 NE 22nd Road|North Miami Beach|Florida|United States|33179|1|1|19430 NE 22nd Road,North Miami Beach,Florida,United States
+BD07973-01|6690|Alliance International Advisors|6690|Main Address|Avenida Francisco de Miranda, Torre Caventes, Piso 7, Oficina 705, Los Palos Grandes - Altamira|Caracas|Distrito Capital|Venezuela||1|1|Avenida Francisco de Miranda, Torre Caventes, Piso 7, Oficina 705, Los Palos Grandes - Altamira,Caracas,Distrito Capital,Venezuela
+BD08028-01|6691|Perlora Managment Inc.|6691|General Mailing|482 W. SAN YSIDRO BLVD. # 124|San Diego|California|United States|92173|2|1|482 W. SAN YSIDRO BLVD. # 124,San Diego,California,United States
+BD08060-01|6692|NATIONALE D'ASSURANCES S.A.|6692|Main Address|25, Rue Fernand, Canapé-Vert|Unknown|Unknown|Haiti||1|1|25, Rue Fernand, Canapé-Vert,Unknown,Unknown,Haiti
+BD08161-01|6694|A&V Asset Protection|6694|Main Address|k.m. 8.8 Antigua Carretera a El Salvador Santa Catarina Pinula Torre Muxbal Oficina 101, Nivel 1|Guatemala City|Guatemala|Guatemala||1|1|k.m. 8.8 Antigua Carretera a El Salvador Santa Catarina Pinula Torre Muxbal Oficina 101, Nivel 1,Guatemala City,Guatemala,Guatemala
+BD08722-01|6703|Shaw Insurance Agency, Inc|6703|General Mailing|19134 STONE OAK PARKWAY |San Antonio|Texas|United States|78258|2|1|19134 STONE OAK PARKWAY ,San Antonio,Texas,United States
+BD10077-01|6810|Ernesto  Cabieses|6810|Main Address|Av Benavides 2150 oficina 303 Miraflores, Las Bebonias|Lima|Lima|Peru||1|1|Av Benavides 2150 oficina 303 Miraflores, Las Bebonias,Lima,Lima,Peru
+BD10275-01|6894|Luisa  Zabaleta|6894|General Mailing|Americo ilaria 6754 esquina vina Del Mar |Montevideo|Montevideo|Uruguay||2|1|Americo ilaria 6754 esquina vina Del Mar ,Montevideo,Montevideo,Uruguay
+BD10312-01|6904|Mariano  Abente|6904|General Mailing|Direccion Juan Bautista Alberdi 6337 casa 9|Montevideo|Montevideo|Uruguay||2|1|Direccion Juan Bautista Alberdi 6337 casa 9,Montevideo,Montevideo,Uruguay
+BD10142-01|6930|PACIFIC PRIME INSURANCE BROKERS LLC|6930|Work|OFFICE 110, THE OFFICE AT IBN BATTUTA GATE|Dubai|Dubayy|United Arab Emirates||3|1|OFFICE 110, THE OFFICE AT IBN BATTUTA GATE,Dubai,Dubayy,United Arab Emirates
+BD10209-01|6932|ICG COMPANY INSURANCE & CONSULTING GROUP|6932|General Mailing|Direccion Juan Bautista Alberdi 6337 casa 9 |Montevideo|Montevideo|Uruguay||2|1|Direccion Juan Bautista Alberdi 6337 casa 9 ,Montevideo,Montevideo,Uruguay
+BD01402-02|6938|Miguel Angel  De Marzo|6938|Residence|malecon 28 de Julio |Lima|Unknown|Peru||5|1|malecon 28 de Julio ,Lima,Unknown,Peru
+BD01979-02|6942|Agencia Donoso|6942|Residence|Balsamos 316-A entre|Guayaquil|Unknown|Ecuador||5|1|Balsamos 316-A entre,Guayaquil,Unknown,Ecuador
+BD00204-02|6985|María Cristina  Quiros Gonzalez (inactivo)|6985|Residence|Manuel Barreto N32-3|Quito|Unknown|Ecuador||5|1|Manuel Barreto N32-3,Quito,Unknown,Ecuador
+BD05980-01|7058|ECUAPRIMAS C. LTDA. AGENCIA ASESORA PRODUCTORA DE SEGUROS|7058|Main Address|Av. Carlos Julio Arosemena|Guayaquil|Guayas|Ecuador|NULL|1|1|Av. Carlos Julio Arosemena,Guayaquil,Guayas,Ecuador
+BD07358-01|7112|Miguel Angel De Marzo|7112|Main Address|Montalvo S12-97 y Cuenca|Quito|Pichincha|Ecuador|NULL|1|1|Montalvo S12-97 y Cuenca,Quito,Pichincha,Ecuador
+BD07359-01|7113|Francisco Fidel  Estupiñan Toledo |7113|Main Address|Calle La Pradera N30-26, Edif Corporativo OMEGA, piso 6 ofic. 608|Quito|Pichincha|Ecuador|NULL|1|1|Calle La Pradera N30-26, Edif Corporativo OMEGA, piso 6 ofic. 608,Quito,Pichincha,Ecuador
+BD00611-02|7200|Megabroker's Inc.|7200|Business|Blue Lagoon Dr. Suit|Miami|Unknown|United States||3|1|Blue Lagoon Dr. Suit,Miami,Unknown,United States
+BD00569-02|7203|GILBERT & BOLOÑA S. A. AGENCIA ASESORA PRODUCTORA DE SEGUROS SEGUGILBO|7203|Main Address|Kennedy Norte,Av. Miguel H. Alcivar, Edif. Torres del Norte|Guayaquil|Guayas|Ecuador||1|1|Kennedy Norte,Av. Miguel H. Alcivar, Edif. Torres del Norte,Guayaquil,Guayas,Ecuador
+BD00368-03|7204|ROSENEY SALCEDO Y ASOCIADOS S.A. RSA AGENCIA ASESORA PRODUCTORA DE SEGUROS|7204|Main Address|Kennedy Norte, Calle Justo Cornejo y Luis Orrantia, Edif. Mapfre Atlas 4to Piso|Guayaquil|Guayas|Ecuador||1|1|Kennedy Norte, Calle Justo Cornejo y Luis Orrantia, Edif. Mapfre Atlas 4to Piso,Guayaquil,Guayas,Ecuador
+BD00007-02|7205|MEGABROKERSECUADOR AGENCIA ASESORA PRODUCTORA DE SEGUROS CIA.LTDA. (1)|7205|Work|Av. Republica E-7-61 y Martin Carrion, Edif. Titanium Plaza, piso 7 Ofic7-2|Quito|Unknown|Ecuador||3|1|Av. Republica E-7-61 y Martin Carrion, Edif. Titanium Plaza, piso 7 Ofic7-2,Quito,Unknown,Ecuador
+BD00480-02|7206|Boston International S.A. BINTSA |7206|Main Address|AV CARLOS JULIO AROSEMENA S/N Y KM DOS Y MEDIO|Guayaquil|Guayas|Ecuador|NULL|1|1|AV CARLOS JULIO AROSEMENA S/N Y KM DOS Y MEDIO,Guayaquil,Guayas,Ecuador
+BD00008-02|7221|AGENCIA PRODUCTORA DE SEGUROS JALILBROKERS S.A.|7221|Billing|Av. Miguel H. Alcívar y Av. José Castillo Mz. 17 Sl. 3 y 4 Edif. Kennedy Point Torre C Piso 5 Ofici |Guayaquil|Guayas|Ecuador||3|1|Av. Miguel H. Alcívar y Av. José Castillo Mz. 17 Sl. 3 y 4 Edif. Kennedy Point Torre C Piso 5 Ofici ,Guayaquil,Guayas,Ecuador
+BD03691-01|7226|MARSEGUROS S.A.|7226|Main Address|Carchi 601 y Quisquis|Guayaquil|Guayas|Ecuador||1|1|Carchi 601 y Quisquis,Guayaquil,Guayas,Ecuador
+BD00735-02|7231|WOA Ecuador Agencia Asesora Productora de Seguros S.A.|7231|Billing|Av. De los Shyris N32-40 y Av. 6 de Diciembre|Quito|Pichincha|Ecuador|NULL|3|1|Av. De los Shyris N32-40 y Av. 6 de Diciembre,Quito,Pichincha,Ecuador
+BD06371-01|7266|TECNISEGUROS S.A. AGENCIA ASESORA PRODUCTORA DE SEGUROS|7266|Main Address|PICHINCHA / QUITO / SAN ISIDRO DEL INCA / DE LA BUGANVILLAS N45-129 Y DE LAS HIGUERAS|Quito|Pichincha|Ecuador||1|1|PICHINCHA / QUITO / SAN ISIDRO DEL INCA / DE LA BUGANVILLAS N45-129 Y DE LAS HIGUERAS,Quito,Pichincha,Ecuador
+BD06302-02|7268|AMOCO S.A. AGENCIA ASESORA PRODUCTORA DE SEGUROS|7268|Main Address|Lizardo García E10-80 y Av. 12 de Octubre, Edificio Alto Aragón, Piso1, Oficina A1|Quito|Pichincha|Ecuador|NULL|1|1|Lizardo García E10-80 y Av. 12 de Octubre, Edificio Alto Aragón, Piso1, Oficina A1,Quito,Pichincha,Ecuador
+BD07516-02|7278|Hazkel Puterman & Associates LLC|7278|Residence|3702 NE 199 St. Aven|Unknown|Unknown|United States||5|1|3702 NE 199 St. Aven,Unknown,Unknown,United States
+BD08074-01|7283|VANGUARDIA AGENCIA ASESORA PRODUCTORA DE SEGUROS CIA. LTDA.|7283|Residence|Amazonas N 37-102 y |Quito|Unknown|Ecuador||5|1|Amazonas N 37-102 y ,Quito,Unknown,Ecuador
+BD08637-01|7287|PATRIMONIAL AGENCIA ASESORA PRODUCTORA DE SEGUROS S.A. PATRIMONIALSASEG|7287|Main Address|Cdla. Bolivariana Mz C Villa 10 A|Guayaquil|Guayas|Ecuador||1|1|Cdla. Bolivariana Mz C Villa 10 A,Guayaquil,Guayas,Ecuador
+BD06733-01|7313|(VBA) Glenn Marugg|7313|Residence|Hooiberg 92-D |Unknown|Unknown|Aruba||5|1|Hooiberg 92-D ,Unknown,Unknown,Aruba
+BD00012-02|7318|Twylite Investments, C.A.|7318|Business|C.C.C.T. Nivel C-2, |Caracas|Unknown|Venezuela||3|1|C.C.C.T. Nivel C-2, ,Caracas,Unknown,Venezuela
+BD00611-03|7319|Megabroker's Inc.|7319|Business|Blue Lagoon Dr. Suit|Miami|Unknown|United States||3|1|Blue Lagoon Dr. Suit,Miami,Unknown,United States
+BD07053-01|7328|Andrea  Shandro|7328|Work|1010 1 Avenue NE|Calgary|Alberta|Canada|T2E 4K1|3|1|1010 1 Avenue NE,Calgary,Alberta,Canada
+BD08541-01|7332|Federated  Agencies|7332|Work|5600 Cancross Court|Mississauga|Ontario|Canada|L5R 3E9|3|1|5600 Cancross Court,Mississauga,Ontario,Canada
+BD08632-01|7333|John  Stapleton|7333|Main Address|357 Georgian Drive|Barrie|Ontario|Canada|L4M 7A2|1|1|357 Georgian Drive,Barrie,Ontario,Canada
+BD08678-01|7334|Woodgate  |7334|Main Address|411 Richmord St E|Toronto|Ontario|Canada|M5A 3S5|1|1|411 Richmord St E,Toronto,Ontario,Canada
+BD08750-01|7335|Leonetti Wealth  Management|7335|Main Address|50 Coreslab Dr.|Flamborough|Ontario|Canada|L9H 0B2|1|1|50 Coreslab Dr.,Flamborough,Ontario,Canada
+BD08835-01|7336|Ivan  Ayala|7336|Main Address|331 Jevlan Dr. |Woodbridge|Ontario|Canada|L4L 1T7|1|1|331 Jevlan Dr. ,Woodbridge,Ontario,Canada
+BD08922-01|7337|Excelplan  Financial|7337|Work|440 Elizabeth St.|Burlington|Ontario|Canada|L7R 2M1|3|1|440 Elizabeth St.,Burlington,Ontario,Canada
+BD09152-01|7339|Martin  Maretzki|7339|Main Address|1063 King St. W.|Hamilton|Ontario|Canada|L8S 4S3|1|1|1063 King St. W.,Hamilton,Ontario,Canada
+BD09165-01|7340|Michael  Sinclair|7340|Main Address|6733 Mississauga Rd.|Mississauga|Ontario|Canada|L5N 6J5|1|1|6733 Mississauga Rd.,Mississauga,Ontario,Canada
+BD09477-01|7341|Jeff  Romansky|7341|Main Address|10 Vanderburgh Lane|Grimsby|Ontario|Canada|L3M 0C2|1|1|10 Vanderburgh Lane,Grimsby,Ontario,Canada
+BD09600-01|7342|HSBI Benefits  Inc|7342|Main Address|116 Simcoe Street|Toronto|Ontario|Canada|M5H 4E2|1|1|116 Simcoe Street,Toronto,Ontario,Canada
+BD09683-01|7344|David  Lord|7344|Main Address|440 Elizabeth St.|Burlington|Ontario|Canada|L7R 2M1|1|1|440 Elizabeth St.,Burlington,Ontario,Canada
+BD09692-01|7345|Hubert  Oberembt|7345|Main Address|500 6th Ave.|New Westminster|British Columbia|Canada|V3L 1V3|1|1|500 6th Ave.,New Westminster,British Columbia,Canada
+BD09918-01|7346|Active Wealth  Management|7346|Main Address|237A Coleman St.|Belleville|Ontario|Canada|K8P 3H8|1|1|237A Coleman St.,Belleville,Ontario,Canada
+BD01039-01|7347|Hamilton & Partners|7347|Main Address|215 - 2nd Street  SW|Calgary|Alberta|Canada|T2P 1M4|1|1|215 - 2nd Street  SW,Calgary,Alberta,Canada
+BD07043-01|7350|Vital Partners Inc|7350|Main Address|138 18 Ave. SE|Calgary|Alberta|Canada|T2G 5P9|1|1|138 18 Ave. SE,Calgary,Alberta,Canada
+BD07772-01|7355|Chris Hrynyk|7355|Work|3 Hush Lane |Toronto|Ontario|Canada|M6S 2V6|3|1|3 Hush Lane ,Toronto,Ontario,Canada
+BD07851-01|7356|Excel Benefit Consulting Inc.|7356|Main Address|Unit 2322, 246 Stewart Green SW|Calgary|Alberta|Canada|T3H 3C8|1|1|Unit 2322, 246 Stewart Green SW,Calgary,Alberta,Canada
+BD07985-01|7357|Simone International Insurance Services Inc.|7357|Main Address|290 Rowntree Dairy Road|Woodbridge|Ontario|Canada|L4L 9J7|1|1|290 Rowntree Dairy Road,Woodbridge,Ontario,Canada
+BD08442-01|7361|WEALTHinsurance.com Inc.|7361|Work|600 Cochrane Drive|Markham|Ontario|Canada|L3R5K3|3|1|600 Cochrane Drive,Markham,Ontario,Canada
+BD08618-01|7362|Core Planning Inc.|7362|Main Address|3625 Dufferin St.|Toronto|Ontario|Canada|M3K 1Z2|1|1|3625 Dufferin St.,Toronto,Ontario,Canada
+BD08690-01|7363|Warke Agency Inc.|7363|Main Address|382 Saddleback Road NW|Edmonton|Alberta|Canada|T6J 4R6|1|1|382 Saddleback Road NW,Edmonton,Alberta,Canada
+BD08813-01|7365|Ferrari & Associates Insurance & Financial Services|7365|Main Address|129 Rowntree Dairy Rd.|Woodbridge|Ontario|Canada|L4L 6C9|1|1|129 Rowntree Dairy Rd.,Woodbridge,Ontario,Canada
+BD08831-01|7366|Richards Financial|7366|Main Address|64 Mavety St.|Toronto|Ontario|Canada|M6P 2L6|1|1|64 Mavety St.,Toronto,Ontario,Canada
+BD08832-01|7367|Haim Insurance Ventures Ltd|7367|Work|4315 - 55 Ave.|Red Deer|Alberta|Canada|T4N 4N7|3|1|4315 - 55 Ave.,Red Deer,Alberta,Canada
+BD08833-01|7368|Robert White Insurance|7368|Main Address|200 Waterfront|Winnipeg|Manitoba|Canada|R3B 3P1|1|1|200 Waterfront,Winnipeg,Manitoba,Canada
+BD08834-01|7369|Group Force Benefits Inc.|7369|Main Address|6205A Airport Road|Mississauga|Ontario|Canada|L4K 1E1|1|1|6205A Airport Road,Mississauga,Ontario,Canada
+BD08836-01|7370|Accompass|7370|Main Address|1052 Yonge St. 2nd Floor|Toronto|Ontario|Canada|M4W 2L1|1|1|1052 Yonge St. 2nd Floor,Toronto,Ontario,Canada
+BD08837-01|7371|Michael Vukets & Associates Ltd|7371|Main Address|12 Madison Avenue |Toronto|Ontario|Canada|M5R 2S1|1|1|12 Madison Avenue ,Toronto,Ontario,Canada
+BD08910-01|7372|Qualified Financial Services|7372|Main Address|7030 Woodbine Ave.|Markham|Ontario|Canada|L3R 6G2|1|1|7030 Woodbine Ave.,Markham,Ontario,Canada
+BD08915-01|7373|George Burns Insurance|7373|Main Address|502-1260 Howe St.|Vancouver|British Columbia|Canada|V6Z 1R5|1|1|502-1260 Howe St.,Vancouver,British Columbia,Canada
+BD08921-01|7374|Collombin Financial Corp|7374|Main Address|227 11th Ave. SW|Calgary|Alberta|Canada|T2R 1R9|1|1|227 11th Ave. SW,Calgary,Alberta,Canada
+BD08961-01|7375|Hawley Financial Group Inc.|7375|Main Address|11 Springlandway|Calgary|Alberta|Canada|T3Z 3N6|1|1|11 Springlandway,Calgary,Alberta,Canada
+BD08964-01|7376|ABC Insurance Solutions Inc.|7376|Main Address|20285 Stewart Crescent |Maple Ridge|British Columbia|Canada|V2X 8G1|1|1|20285 Stewart Crescent ,Maple Ridge,British Columbia,Canada
+BD08973-01|7377|GPS Consulting Group|7377|Work|114 Forsythe St.|Oakville|Ontario|Canada|L6K 3T3|3|1|114 Forsythe St.,Oakville,Ontario,Canada
+BD09003-01|7378|Richardson Wealth Insurance Services Limited|7378|Main Address|1250 Boul. Rene Levesque|Montreal|Quebec|Canada|H3B 4W8|1|1|1250 Boul. Rene Levesque,Montreal,Quebec,Canada
+BD09103-01|7379|Select First Financial Services Inc.|7379|Main Address|2277E 30th Ave|Vancouver|British Columbia|Canada|V5N 5N1|1|1|2277E 30th Ave,Vancouver,British Columbia,Canada
+BD09197-01|7380|OMG Benefits Consulting Inc.|7380|Main Address|1801 Hollis Street|Halifax|Nova Scotia|Canada|B3J 3N4|1|1|1801 Hollis Street,Halifax,Nova Scotia,Canada
+BD09520-01|7381|Ajay Financial Group Inc|7381|Main Address|311-3601 HWY 7|Markham|Ontario|Canada|L3R 0M3|1|1|311-3601 HWY 7,Markham,Ontario,Canada
+BD09598-01|7382|Belmont Health & Wealth|7382|Main Address|33 Alderney Drive 7th floor|Dartmouth|Nova Scotia|Canada|B2Y 2N4|1|1|33 Alderney Drive 7th floor,Dartmouth,Nova Scotia,Canada
+BD09651-01|7384|ETM Benefits Group Ltd|7384|Main Address|5060 Morris St.|Halifax|Nova Scotia|Canada|B3J 1C5|1|1|5060 Morris St.,Halifax,Nova Scotia,Canada
+BD09682-01|7386|Ralph Moss Limited|7386|Main Address|Ralph Moss Limited / Automated Administration Services, 10520 Yonge St, Unit 35B|Richmond Hill|Ontario|Canada|L4C 3C7|1|1|Ralph Moss Limited / Automated Administration Services, 10520 Yonge St, Unit 35B,Richmond Hill,Ontario,Canada
+BD09733-01|7387|Laurie Kenna & Associates|7387|Main Address|2527 Fairway Rd.|Lethbridge|Alberta|Canada|T1K 5R4|1|1|2527 Fairway Rd.,Lethbridge,Alberta,Canada
+BD09850-01|7389|DCI-Assurance Inc.|7389|Main Address|3030 boul. Curé Labelle |Laval|Quebec|Canada|H7P 0H9|1|1|3030 boul. Curé Labelle ,Laval,Quebec,Canada
+BD09919-01|7390|Muirfield Benefit Solutions Inc.|7390|Main Address|1508 - 29 Avenue SW|Calgary|Alberta|Canada|T2T 1M3|1|1|1508 - 29 Avenue SW,Calgary,Alberta,Canada
+BD10057-01|7392|PEO Canada Benefits and Retirement Ltd.|7392|Main Address|805 - 5th Ave SW|Calgary|Alberta|Canada|T2P 0N6|1|1|805 - 5th Ave SW,Calgary,Alberta,Canada
+BD10326-01|7395|Lawrence Financial Services Inc.|7395|Main Address|140 Bannatyne Ave|Winnipeg|Manitoba|Canada|R3B 3C5|1|1|140 Bannatyne Ave,Winnipeg,Manitoba,Canada
+BD10332-01|7396|Creative Planning Financial Group|7396|Main Address|1867 Yonge St. |Toronto|Ontario|Canada|M9S 1Y9|1|1|1867 Yonge St. ,Toronto,Ontario,Canada
+BD11862-01|892574|Amena Corp|892574|Main Address|Avenida 4 Bella Vista C/Calle 67 Edificio Blitz  PB Oficina 1B/1C|Maracaibo|Zulia|Venezuela|NULL|1|1|Avenida 4 Bella Vista C/Calle 67 Edificio Blitz  PB Oficina 1B/1C,Maracaibo,Zulia,Venezuela
+BD12048-01|893177|Medstaff Consulting|893177|Main Address|180 Dundas Street West|Toronto|Ontario|Canada|M5G 1Z8|1|1|180 Dundas Street West,Toronto,Ontario,Canada
+BD12178-01|893648|Irwin Wortsman|893648|Main Address|1867 Yonge Street|Toronto|Ontario|Canada|M9S 1Y9|1|1|1867 Yonge Street,Toronto,Ontario,Canada
+BD00289-02|893690|Tait Insurance Services, Inc|893690|Main Address|3113 South Ocean Drive |HALLANDALE BEACH|Florida|United States|33009|1|1|3113 South Ocean Drive ,HALLANDALE BEACH,Florida,United States
+BD12203-01|893819|GRACEFFA WEALTH MGMT|893819|Main Address|37 Sandy Drive|Stoney Creek|Ontario|Canada|L8E 4X5|1|1|37 Sandy Drive,Stoney Creek,Ontario,Canada
+BD12204-01|893821|YourWealthCare|893821|Work|251 Consumers Rd.|Toronto|Ontario|Canada|M2J 4R3|3|1|251 Consumers Rd.,Toronto,Ontario,Canada
+BD12583-01|895961|VIP BLUE|895961|Main Address|78 SW 7th St|Miami|Florida|United States|33130|1|1|78 SW 7th St,Miami,Florida,United States
+BD00007-06|901446|MEGABROKERSECUADOR AGENCIA ASESORA PRODUCTORA DE SEGUROS CIA.LTDA.|901446|Work|Av. Republica E7-61 y Marin Carrion, edif. Titanium Plaza piso 7 ofic.7-2|Quito|Pichincha|Ecuador|NULL|3|1|Av. Republica E7-61 y Marin Carrion, edif. Titanium Plaza piso 7 ofic.7-2,Quito,Pichincha,Ecuador
+BD12799-01|901878|Crossroads Financial Solutions|901878|Main Address|4263 Sherwoodtowne Blvd|Mississauga|Ontario|Canada|L4Z 1Y5|1|1|4263 Sherwoodtowne Blvd,Mississauga,Ontario,Canada
+BD12876-01|1805847|Allen Wong & Associates Insurance Agency Limited|1805847|Main Address|123 Commerce Valley Drive East|Thornhill|Ontario|Canada|L3T 7W8|1|1|123 Commerce Valley Drive East,Thornhill,Ontario,Canada
+BD13013-01|1807383|GARRETT AGENCIES LTD|1807383|Main Address|1122 - 4th Street SW|Calgary|Alberta|Canada|T2R 1M1|1|1|1122 - 4th Street SW,Calgary,Alberta,Canada
+BD13090-01|3615645|Retirement Benefits Insurance Agency Ltd|3615645|Main Address|2200 Speers Rd.|Oakville|Ontario|Canada|L6L 2X8|1|1|2200 Speers Rd.,Oakville,Ontario,Canada
+BD00343-02|7269126|AM Global Group|7269126|Main Address|Urb. Chuao, Calle La Guairita, Edificio Los Frailes, piso 1, of. 101|Caracas|Distrito Capital|Venezuela|NULL|1|1|Urb. Chuao, Calle La Guairita, Edificio Los Frailes, piso 1, of. 101,Caracas,Distrito Capital,Venezuela
+BD00393-02|29254462|Lenis  Castillo|29254462|Main Address|Av. Principal de Maracanay CC Express piso 5 |Unknown|Unknown|Venezuela|1072|1|1|Av. Principal de Maracanay CC Express piso 5 ,Unknown,Unknown,Venezuela
+BD13727-01|29276209|Binks Financial|29276209|Main Address|881 Lady Ellen Place|Ottawa|Ontario|Canada|K1Z 5L3|1|1|881 Lady Ellen Place,Ottawa,Ontario,Canada
+BD00009-03|29277860|GLH Insurance|29277860|Main Address|Av. Eugenio Mendoza, Edf. IASA|Caracas|Distrito Capital|Venezuela|NULL|1|1|Av. Eugenio Mendoza, Edf. IASA,Caracas,Distrito Capital,Venezuela
+BD07516-03|29277865|Hazkel Puterman & Associates LLC|29277865|Main Address|3702 NE 199 St.|Aventura|Florida|United States|33180|1|1|3702 NE 199 St.,Aventura,Florida,United States
+BD00011-03|29277866|N.  Puterman|29277866|Main Address|Av. San Felipe, Centro Coinasa; piso 3 Ofc 35, La Castellana|Caracas|Distrito Capital|Venezuela|1060|1|1|Av. San Felipe, Centro Coinasa; piso 3 Ofc 35, La Castellana,Caracas,Distrito Capital,Venezuela
+BD00625-02|29277872|PFP de Venezuela, C.A.|29277872|Main Address|Avenida Francisco de Miranda Intercepción con la principal de las Mercedes, Edificio EASO Piso 5 Ofc|Caracas|Distrito Capital|Venezuela|NULL|1|1|Avenida Francisco de Miranda Intercepción con la principal de las Mercedes, Edificio EASO Piso 5 Ofc,Caracas,Distrito Capital,Venezuela
+BD14680-01|29282399|Angeline Yung|29282399|Work|155 East Beaver Creek Rd.|Richmond Hill|Ontario|Canada|L4B 2N1|3|1|155 East Beaver Creek Rd.,Richmond Hill,Ontario,Canada
+BD14695-01|29282465|Talbot Financial Group Inc.|29282465|Work|29 Aspenstone Rd SW|Calgary|Alberta|Canada|T3H 5Y5|3|1|29 Aspenstone Rd SW,Calgary,Alberta,Canada
+BD14791-01|58566393|Advocate Benefits Consulting|58566393|Main Address|41 Ames Circle|Toronto|Ontario|Canada|M3B 3B9|1|1|41 Ames Circle,Toronto,Ontario,Canada
+BD14877-01|58569363|CBI Group Inc|58569363|Main Address|620 1 Ave. NW|Airdrie|Alberta|Canada|T4B 2R3|1|1|620 1 Ave. NW,Airdrie,Alberta,Canada
+BD14893-01|58569543|Execu-Comp Benefits Inc|58569543|Work|101-1540 Canwall Reed|Oakville|Ontario|Canada|NULL|3|1|101-1540 Canwall Reed,Oakville,Ontario,Canada
+BD15289-02|58570680|Englander Insurance Services II|58570680|Main Address|PROL, AVE. DE LOS BOSQUES # 1506|Huixquilucan|México|Mexico|52780|1|1|PROL, AVE. DE LOS BOSQUES # 1506,Huixquilucan,México,Mexico
+BD15041-01|58570920|Gallagher Benefit Services (Canada) Group Inc|58570920|Work|Suite 301, 224 - 11th Ave SW|Calgary|Alberta|Canada|NULL|3|1|Suite 301, 224 - 11th Ave SW,Calgary,Alberta,Canada
+BD15042-01|58570924|Philippe Gozlan|58570924|Main Address|89 Brickstone Circle|Thornhill|Ontario|Canada|L4J 6M5|1|1|89 Brickstone Circle,Thornhill,Ontario,Canada
+BD15289-01|58574616|Englander Insurance Services|58574616|Main Address|PROL, AVE. DE LOS BOSQUES #1506 |Huixquilucan|México|Mexico|52780|1|1|PROL, AVE. DE LOS BOSQUES #1506 ,Huixquilucan,México,Mexico
+BD15292-01|58574632|Shepherd Life and Health Inc|58574632|Work|140 Wendell Ave|Toronto|Ontario|Canada|M9N 3R2|3|1|140 Wendell Ave,Toronto,Ontario,Canada
+BD00204-03|58576710|Maria Cristina Quiros Gonzalez (inactivo)|58576710|Billing|Manuel Barreto N32-3|Quito|Pichincha|Ecuador|NULL|3|1|Manuel Barreto N32-3,Quito,Pichincha,Ecuador
+BD15792-01|58582043|Synergy Financial Group|58582043|Work|933 - 17th Ave SW|Calgary|Alberta|Canada|T2T 5R6|3|1|933 - 17th Ave SW,Calgary,Alberta,Canada
+BD15793-01|58582053|Gary Mitchell|58582053|Work|4330 Rosemead Ct.|Burlington|Ontario|Canada|L7M 4R1|3|1|4330 Rosemead Ct.,Burlington,Ontario,Canada
+BD15879-01|58583123|Paul Barron Insurance|58583123|Work|4-1550 Kingston RD|Pickering|Ontario|Canada|L1V6W9|3|1|4-1550 Kingston RD,Pickering,Ontario,Canada
+BD15901-01|58584818|SILVERBERG GROUP|58584818|Work|Suite 430, 220 4Th|Lethbridge|Alberta|Canada|NULL|3|1|Suite 430, 220 4Th,Lethbridge,Alberta,Canada
+BD15956-01|58585689|BAICORP FINANCIAL INC|58585689|Work|1290 Cornwall RD Unit C|Oakville|Ontario|Canada|L6J 7W5|3|1|1290 Cornwall RD Unit C,Oakville,Ontario,Canada
+BD15957-01|58585716|WALCH FINANCIAL SERVICES INC|58585716|Work|1409 2ND St- SW|Calgary|Alberta|Canada|T2R 0W7|3|1|1409 2ND St- SW,Calgary,Alberta,Canada
+BD16042-01|58586983|Wiegers Financial Benefits|58586983|Work|120 - 33rd Street E|Saskatoon|Saskatchewan|Canada|S7K 0S2|3|1|120 - 33rd Street E,Saskatoon,Saskatchewan,Canada
+BD00845-02|58589131|FUNDASOL LTD|58589131|Main Address|Melvin Jones 650 casi Ntra. Sra. Del Carmen|Asuncion|Asunción|Paraguay|NULL|1|1|Melvin Jones 650 casi Ntra. Sra. Del Carmen,Asuncion,Asunción,Paraguay
+BD16183-01|58589569|Rebuck & Associates|58589569|Work|20 Valleywood Drive, Unit 104A|Markham|Ontario|Canada|L3R 6G1|3|1|20 Valleywood Drive, Unit 104A,Markham,Ontario,Canada
+BD16415-01|58592943|Yellow Raincoat Benefit Consultans Inc|58592943|Main Address|101,718-12 Ave SW|Calgary|Alberta|Canada|T2R0H7|1|1|101,718-12 Ave SW,Calgary,Alberta,Canada
+BD16591-01|58596396|Zavitz Insurance Inc|58596396|Main Address|439 Dundas St.|London|Ontario|Canada|N6B 1W1|1|1|439 Dundas St.,London,Ontario,Canada
+BD16653-01|58599470|Tim Johnston|58599470|Main Address|5-190 Minets Point Rd.|Barrie|Ontario|Canada|L9N 8J8|1|1|5-190 Minets Point Rd.,Barrie,Ontario,Canada
+BD16712-01|58600025|David Emanuel|58600025|Main Address|10691 Shellbridge Way|Richmond|British Columbia|Canada|V6X 2W8|1|1|10691 Shellbridge Way,Richmond,British Columbia,Canada
+BD16843-01|58602112|GP Mclver Insurance Inc|58602112|Main Address|28 Crystal Drive|Bedford|Nova Scotia|Canada|B4A 3R4|1|1|28 Crystal Drive,Bedford,Nova Scotia,Canada
+BD16960-01|58604293|Rikesh Lal|58604293|Work|B-1/32 VASANT VIHAR|New Delhi|NCT|India|110057|3|1|B-1/32 VASANT VIHAR,New Delhi,NCT,India
+BD16995-01|58605014|MGA CONSULTING SERVICES|58605014|Main Address|1764 Rathburn Rd. East|Mississauga|Ontario|Canada|L4W2N8|1|1|1764 Rathburn Rd. East,Mississauga,Ontario,Canada
+BD17113-01|58609691|Clifton Agard|58609691|Work|253 Roxton Road|Oakville|Ontario|Canada|NULL|3|1|253 Roxton Road,Oakville,Ontario,Canada
+BD10077-02|58610538|Cabieses -  De Marzo|58610538|Main Address|Las Besonias 630 Of. 36 San Isidro|Lima|Lima|Peru||1|1|Las Besonias 630 Of. 36 San Isidro,Lima,Lima,Peru
+BD17608-01|58618005|Robert Dice|58618005|Main Address|615 Watson Parkway S.|Guelph|Ontario|Canada|N1H 6H8|1|1|615 Watson Parkway S.,Guelph,Ontario,Canada
+BD17839-01|58621835|Wilson Claxton Financial|58621835|Main Address|10074 154 Street NW|Edmonton|Alberta|Canada|T5P4Y3|1|1|10074 154 Street NW,Edmonton,Alberta,Canada
+BD17871-01|58622372|Co - Plan Salud LLC |58622372|Main Address|P.O. Box 160190|Hialeah|Florida|United States|33016|1|1|P.O. Box 160190,Hialeah,Florida,United States
+BD17923-01|58624076|Neo Global Group|58624076|Main Address|Rua José Clemente 324 - Jardim Paulista |Sao Paulo|São Paulo|Brazil|01428-020|1|1|Rua José Clemente 324 - Jardim Paulista ,Sao Paulo,São Paulo,Brazil
+BD18143-01|58629720|Experior Financial Group|58629720|Main Address|319 Speedvale Ave. E|Guelph|Ontario|Canada|N1E 1N4|1|1|319 Speedvale Ave. E,Guelph,Ontario,Canada
+BD18334-01|58635709|Global Albatross|58635709|Work|Level 1, 5 School Road|Wellington|Wellington|New Zealand|NULL|3|1|Level 1, 5 School Road,Wellington,Wellington,New Zealand
+BD18364-01|58636143|Thian Financial Solutions Inc|58636143|Main Address|1 Valleywood Dr.|Markham|Ontario|Canada|L3R5L9|1|1|1 Valleywood Dr.,Markham,Ontario,Canada
+BD18365-01|58636145|Humi Inc|58636145|Main Address|325 Front St. W|Toronto|Ontario|Canada|M5P2Y1|1|1|325 Front St. W,Toronto,Ontario,Canada
+BD18370-01|58636160|Wyse Financial Solutions Inc|58636160|Main Address|1 Valleywood Dr.|Markham|Ontario|Canada|L3R5L9|1|1|1 Valleywood Dr.,Markham,Ontario,Canada
